@@ -1,4 +1,4 @@
-# final project : Harmonic series
+# Harmonic series
 
 + input : 大於等於0的實數
 
