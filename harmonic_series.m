@@ -1,4 +1,4 @@
-%輸入一實數 X 大於等於0，找到 N 滿足 S(N+1) > X > S(N)，其中 S(N) 為harmonic series
+%輸入一實數 X 大於等於 0，找到 N 滿足 S(N+1) > X > S(N)，其中 S(N) 為harmonic series
 %input : 5
 %output : 當 N = 82 時，級數之和會小於輸入值；當 N = 83 時，級數之和會大於輸入值
 %
