@@ -11,7 +11,7 @@ S(N+1) > X > S(N)
 ## 輸入 & 輸出
 + input : 大於等於0的實數
 
-+ output : N 滿足 S(N+1) > X > S(N)，其中S(N)為harmonic series
++ output : N 滿足 S(N+1) > X > S(N)，其中 S(N) 為harmonic series
 
 ## 作法 & 說明
 
