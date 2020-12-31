@@ -10,15 +10,15 @@ S(N+1) > X > S(N)
 
 # Example
 
-![image](https://imgur.com/aZaDjQ0)
+![一般迴圈計算](https://github.com/NCTU-Math-Software/final_project-wwwasnlfejed/blob/main/ex%201.png)
 
-![image](https://imgur.com/UgY0seC)
+![image](https://github.com/NCTU-Math-Software/final_project-wwwasnlfejed/blob/main/ex%202.png)
 
-![image](https://imgur.com/r3A5Puv)
+![image](https://github.com/NCTU-Math-Software/final_project-wwwasnlfejed/blob/main/ex%203.png)
 
-![image](https://imgur.com/WjVgWdC)
+![image](https://github.com/NCTU-Math-Software/final_project-wwwasnlfejed/blob/main/ex%204.png)
 
-![image](https://imgur.com/3GsJiXI)
+![image](https://github.com/NCTU-Math-Software/final_project-wwwasnlfejed/blob/main/sp%201.png)
 
 ## 輸入 & 輸出
 + input : 大於等於0的實數
