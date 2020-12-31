@@ -8,6 +8,18 @@
 S(N+1) > X > S(N)
 ```
 
+# Example
+
+![image](https://imgur.com/aZaDjQ0)
+
+![image](https://imgur.com/UgY0seC)
+
+![image](https://imgur.com/r3A5Puv)
+
+![image](https://imgur.com/WjVgWdC)
+
+![image](https://imgur.com/3GsJiXI)
+
 ## 輸入 & 輸出
 + input : 大於等於0的實數
 
