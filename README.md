@@ -10,13 +10,23 @@ S(N+1) > X > S(N)
 
 # Example
 
-![一般迴圈計算](https://github.com/NCTU-Math-Software/final_project-wwwasnlfejed/blob/main/ex%201.png)
+一般迴圈計算
+
+![image](https://github.com/NCTU-Math-Software/final_project-wwwasnlfejed/blob/main/ex%201.png)
+
+Euler constant計算
 
 ![image](https://github.com/NCTU-Math-Software/final_project-wwwasnlfejed/blob/main/ex%202.png)
 
+divergence rate計算極大數值(1)
+
 ![image](https://github.com/NCTU-Math-Software/final_project-wwwasnlfejed/blob/main/ex%203.png)
 
+divergence rate計算極大數值(2)
+
 ![image](https://github.com/NCTU-Math-Software/final_project-wwwasnlfejed/blob/main/ex%204.png)
+
+級數值等於輸入值之判斷
 
 ![image](https://github.com/NCTU-Math-Software/final_project-wwwasnlfejed/blob/main/sp%201.png)
 
